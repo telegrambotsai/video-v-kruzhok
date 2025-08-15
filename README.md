@@ -1,7 +1,7 @@
 # Бот для создания видео в кружок Telegram: @videovkruzhki_bot
 
 [![Статус: Онлайн](https://img.shields.io/badge/статус-онлайн-brightgreen.svg)](https://t.me/videovkruzhki_bot)
-[![Версия: 1.0](https://img.shields.io/badge/версия-1.0-blue.svg)](https://t.me/videovkruzhki_bot)
+[![Версия: 1.0](https://img.shields.io/badge/версия-1.0-blue.svg)](https://telegrambotsai.github.io/video-v-kruzhok/index.html)
 [![Лицензия: Бесплатно](https://img.shields.io/badge/лицензия-бесплатно-lightgrey.svg)](https://t.me/videovkruzhki_bot)
 
 **@videovkruzhki_bot** — это лучший способ **сделать кружок из видео** прямо в Telegram. Наш бот мгновенно конвертирует любое ваше видео в стильный **кружок в телеграмме**, добавляет смешные **пранк-эффекты** и извлекает аудио. Без водяных знаков и сложных редакторов!
@@ -47,7 +47,7 @@
 
 ## Поддержка и контакты
 
-Больше информации, примеры работ и ответы на другие вопросы вы можете найти на нашем официальном сайте:
+[Больше информации](https://telegrambotsai.github.io/video-v-kruzhok/index.html), примеры работ и ответы на другие вопросы вы можете найти на нашем официальном сайте:
 
 ### [https://video-v-kruzhok.top](https://video-v-kruzhok.top)
 
